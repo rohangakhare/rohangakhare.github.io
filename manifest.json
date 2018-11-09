@@ -115,6 +115,11 @@
             "src": "/images/473e3138-7c00-5ad8-804c-f40ab61d3624.webPlatform.png",
             "sizes": "76x76",
             "type": "image/png"
+        },
+        {
+            "src": "/images/angular_512.png",
+            "sizes": "512x512",
+            "type": "image/png"
         }
     ]
 }
